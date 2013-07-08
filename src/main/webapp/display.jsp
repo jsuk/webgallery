@@ -19,7 +19,7 @@
 %>
 <html>
   <head>
-    <title>Text Search Demo</title>
+    <title>Text Search Demonstration</title>
     <style type="text/css">
       input {
         border: 1px gray solid;
@@ -66,7 +66,7 @@
   <body>
     <div>
       <div style='font-size: x-large; float: left;'>
-        Text Search Demo
+        Text Search Demonstration
       </div>
       <div style='float: right;'>
         <%=request.getAttribute("nickname")%> &bull;
